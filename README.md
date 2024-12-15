@@ -1,2 +1,3 @@
 これは以下のリポジトリのフォークです
-jp-postal-code-api.ttskch.com
+
+https://github.com/ttskch/jp-postal-code-api
